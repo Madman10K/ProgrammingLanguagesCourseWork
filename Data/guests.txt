@@ -1,0 +1,6 @@
+1|Ivan|Petrov|PB1234567|+359 888 123 456|ivan.petrov@example.com
+2|Maria|Georgieva|PB7654321|+359 887 654 321|maria.georgieva@example.com
+3|John|Smith|GB5551234|+44 20 7946 0958|john.smith@example.co.uk
+4|Elena|Dimitrova|BG6789012|0899 112 233|elena.d@example.com
+5|Franz|Fischbach|DE2345678|+49 30 1234567|franz.fischbach@example.de
+6|Aristotelis|Papanis|GR3456789|+30 06 1234 5678|aristotelis.papanis@example.gr

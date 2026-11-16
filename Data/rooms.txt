@@ -1,0 +1,10 @@
+101|standard|8900|2|0|Courtyard view
+102|standard|8900|2|0|Courtyard view
+103|standard|7900|1|0|Single room
+104|standard|9500|2|0|Garden view
+105|standard|8500|2|1|Bathroom renovation until November
+201|deluxe|14900|3|0|Sea view
+202|deluxe|14900|3|0|Sea view
+203|deluxe|13900|2|0|City view
+301|suite|28900|4|0|Panorama suite
+302|suite|34900|6|0|Presidential suite, two bedrooms
